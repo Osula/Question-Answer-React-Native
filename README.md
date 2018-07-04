@@ -1,2 +1,5 @@
 # Question-Answer-React-Native
-A Q&amp;A section
+A dynamic Questions and Answers section for your react-native app. 
+
+
+![](QAscreen.GIF)
