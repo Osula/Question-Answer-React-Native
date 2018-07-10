@@ -1,15 +1,9 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
-import { StyleSheet, video,ListView, ScrollView,FlatList, DatePickerIOS, Modal, Platform, fontWeight, Image, backgroundColor, Text, fontFamily, fontSize, View, Button, TouchableHighlight, TextInput, TouchableOpacity, Alert,} from 'react-native';
-import {Ionicons} from '@expo/vector-icons';
-import { NavigatorIOS, WebView,} from 'react-native';
+import { StyleSheet, ScrollView,  Modal, Platform, fontWeight, Image, backgroundColor, Text, fontFamily, fontSize, View, Button, TouchableHighlight, TextInput, TouchableOpacity,,} from 'react-native';
 import Entypo from '@expo/vector-icons/Entypo';
 import { StackNavigator } from 'react-navigation';
-import DateTimePicker from 'react-native-modal-datetime-picker';
 import EvilIcons from '@expo/vector-icons/EvilIcons';
 import ViewMoreText from 'react-native-read-more-text';
-import { ImagePicker } from 'expo';
-import moment from 'moment';
 
 
 
