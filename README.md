@@ -14,6 +14,7 @@ import AnswerInput from './answerInput';
 import QuestionAnswered from './questionAnswered';
 ```
 # Prerequisites
+Libraries you need to install 
 ```javascript 
 import React from 'react';
 import { StyleSheet, video,ListView, ScrollView,FlatList, Platform, fontWeight, Image, backgroundColor, Text, fontFamily, fontSize, View, Button, TouchableHighlight, TextInput, TouchableOpacity, Alert,} from 'react-native';
