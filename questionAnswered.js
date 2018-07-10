@@ -1,8 +1,5 @@
 import React, {Component} from 'react';
-import PropTypes from 'prop-types';
 import { StyleSheet, ScrollView,Platform, fontWeight, Image, backgroundColor, Text, fontFamily, fontSize, View, Button, TouchableHighlight, TextInput, TouchableOpacity, Alert,} from 'react-native';
-
-import EvilIcons from '@expo/vector-icons/EvilIcons';
 import ViewMoreText from 'react-native-read-more-text';
 
 
