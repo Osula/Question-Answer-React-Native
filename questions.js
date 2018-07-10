@@ -1,15 +1,7 @@
 import React from 'react';
 import { StyleSheet, video,ListView, ScrollView,FlatList, Platform, fontWeight, Image, backgroundColor, Text, fontFamily, fontSize, View, Button, TouchableHighlight, TextInput, TouchableOpacity, Alert,} from 'react-native';
-import {Ionicons} from '@expo/vector-icons';
-import { NavigatorIOS, WebView,} from 'react-native';
-import Entypo from '@expo/vector-icons/Entypo';
-import { StackNavigator } from 'react-navigation'; // Version can be specified in package.json
-import EvilIcons from '@expo/vector-icons/EvilIcons';
-import FriendProfile from './FriendProfile';
 import {RkButton} from 'react-native-ui-kitten';
 import ViewMoreText from 'react-native-read-more-text';
-import Swipeout from 'react-native-swipeout';
-import { MenuProvider,  Menu, MenuOptions, MenuOption, MenuTrigger,} from 'react-native-popup-menu';
 import AnswerInput from './answerInput';
 import QuestionAnswered from './questionAnswered';
 
