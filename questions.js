@@ -1,6 +1,7 @@
 import React from 'react';
 import { StyleSheet, video,ListView, ScrollView,FlatList, Platform, fontWeight, Image, backgroundColor, Text, fontFamily, fontSize, View, Button, TouchableHighlight, TextInput, TouchableOpacity, Alert,} from 'react-native';
 import {RkButton} from 'react-native-ui-kitten';
+import Swipeout from 'react-native-swipeout';
 import ViewMoreText from 'react-native-read-more-text';
 import AnswerInput from './answerInput';
 import QuestionAnswered from './questionAnswered';
